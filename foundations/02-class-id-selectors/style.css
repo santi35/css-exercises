@@ -1,0 +1,17 @@
+
+    .nine {
+        background-color: rgb(255, 192, 203);
+        font-family: "Verdana", "DejaVu-Sans", "sans-serif"; 
+        }
+    
+       
+    .nine-ground{ font-size: 24px; }
+    
+    #zero {
+    color: blue;
+    font-size: 36px } 
+
+    #one {
+        background-color:lightgreen;
+        font-size: 26px;
+        font-weight: bold; }     
